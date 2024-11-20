@@ -1,0 +1,11 @@
+y := 2y + w + v
+v := x + v + 3w
+x := x + w + v
+m := x + y + m
+x := q + p + w + y + z + v
+y := w + y + x
+x := v + z + w
+z := z + y + w
+m := w + z + v
+A = {a, b, c, d, e, f, g, h, i}
+w = aieaecdhgbfdbfi
