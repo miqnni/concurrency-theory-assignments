@@ -7,8 +7,8 @@ Given:
 
 find the following:
 
-- dependence relation `D`;
-- independence relation `I`;
+- dependence relation $D$;
+- independence relation $I$;
 - Foata Normal Form $\text{FNF}([w])$ for the trace $[w]$;
 - Diekert's dependence graph for $w$.
 
